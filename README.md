@@ -1,4 +1,4 @@
-# nodeDSP
+# NodeDSP
 DSP with node editor in DearPyGUI
 
 ### Dependency
